@@ -24,7 +24,7 @@ const projects = [
   {
     title: 'Real Time chat using socket-io',
     description:
-      'A full-stack social media platform built using the MERN stack (MongoDB, Express.js, React, and Node.js). The application allows users to create profiles, share posts, interact through likes and comments, and connect with other users. It focuses on real-time interactions, responsive design, and scalable backend architecture to deliver a smooth social networking experience.',
+      '💬 Real-Time Chat ApplicationA real-time chat application built using React, Node.js, Express, MongoDB, and Socket.io that allows users to send and receive messages instantly without refreshing the page, The application uses WebSocket communication with Socket.io to provide seamless real-time messaging between connected users.',
     image: '/chatty.png',
     tags: ['React', 'NodeJs'],
     link: 'https://realtime-chat-using-socketio-frontend.onrender.com',
