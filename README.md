@@ -1,16 +1,82 @@
-# React + Vite
+# 🌐 Shayan Khan – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal **developer portfolio website** built to showcase my projects, technical skills, and experience as a **MERN Stack Developer**.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** https://portfolio-mef8.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hi, I'm **Shayan Khan**, a passionate **MERN Stack Developer** with experience building full-stack web applications using modern technologies.
+I enjoy creating responsive, scalable, and user-friendly applications.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+**Frontend**
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
+
+**Tools**
+
+* Git
+* GitHub
+* Vite
+* Render (Deployment)
+
+---
+
+## ✨ Features
+
+* Modern responsive UI
+* Smooth animations
+* Project showcase section
+* Contact section
+* Social media links
+* Fully responsive design
+
+---
+
+## 📂 Sections in the Portfolio
+
+* Hero Section
+* About Me
+* Projects
+* Contact
+
+---
+
+## 🛠 Installation & Setup
+
+If you want to run this project locally:
+
+```bash
+git clone https://github.com/Shayan464/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 📸 Live Preview
+
+Visit the portfolio here:
+👉 https://portfolio-mef8.onrender.com/
+
+---
+
+## 📬 Contact
+
+📧 Email: [shayan8839@gmail.com](mailto:shayan8839@gmail.com)
+🐙 GitHub: https://github.com/Shayan464
+
+---
+
+⭐ If you like this project, consider giving it a **star** on GitHub!
