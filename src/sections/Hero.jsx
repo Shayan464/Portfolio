@@ -8,9 +8,10 @@ import {
   Download,
   Instagram,
 } from 'lucide-react';
-import GreenDots from '../components/GreenDots';
-import { DotLottieReact } from '@lottiefiles/dotlottie-react';
+// import GreenDots from '../components/GreenDots';
+// import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 import { AnimatedBorderButton } from '../components/AnimatedBorderButton';
+import CodeCard from '../components/CodeCard';
 
 const skills = [
   'React',
@@ -36,9 +37,9 @@ const Hero = () => {
   return (
     <>
       <div className="fixed inset-0 z-0 pointer-events-none">
-        <GreenDots
+        {/* <GreenDots
           particleColors={['#ffffff']}
-          particleCount={200}
+          particleCount={70}
           particleSpread={10}
           speed={0.1}
           particleBaseSize={100}
@@ -46,7 +47,7 @@ const Hero = () => {
           alphaParticles={false}
           disableRotation={false}
           pixelRatio={1}
-        />
+        /> */}
       </div>
       <section className="relative min-h-screen flex items-center overflow-hidden">
         {/* Bg */}
@@ -144,6 +145,7 @@ const Hero = () => {
             {/* Right Column - Profile Image */}
             <div className="relatice animate-fade-in animation-delay-300">
               {/* Profile Image */}
+
               <div className="relative max-w-md mx-auto">
                 <div
                   className="absolute inset-0
@@ -152,15 +154,7 @@ const Hero = () => {
               to-primary/10 blur-2xl animate-pulse"
                 />
                 <div className="relative glass rounded-3xl p-2 glow-border">
-                  <div className="hidden lg:flex">
-                    <DotLottieReact
-                      src="https://lottie.host/0a6d9201-b4a6-43f0-839f-f1e59495fcda/1zXsj8sB4O.lottie"
-                      height={20}
-                      width={20}
-                      loop
-                      autoplay
-                    />
-                  </div>
+                  <CodeCard />
 
                   {/* Floating Badge */}
                   <div className="absolute -bottom-4 -right-4 glass rounded-xl px-4 py-3 animate-float">

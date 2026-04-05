@@ -53,15 +53,17 @@ const Navbar = () => {
         </div>
 
         {/* CTA Button */}
-        <div
-          className="hidden md:block"
-          onClick={() =>
-            document
-              .getElementById('contact')
-              ?.scrollIntoView({ behaviour: 'smooth' })
-          }
-        >
-          <Button size="sm">Contact Me</Button>
+        <div className="hidden md:block">
+          <Button
+            size="sm"
+            onClick={() =>
+              document
+                .getElementById('contact')
+                ?.scrollIntoView({ behavior: 'smooth' })
+            }
+          >
+            Contact Me
+          </Button>
         </div>
 
         {/* Mobile Menu Button */}
@@ -88,7 +90,14 @@ const Navbar = () => {
               </a>
             ))}
 
-            <Button onClick={() => setIsMobileMenuOpen(false)}>
+            <Button
+              onClick={() => {
+                document
+                  .getElementById('contact')
+                  ?.scrollIntoView({ behavior: 'smooth' });
+                setIsMobileMenuOpen(false);
+              }}
+            >
               Contact Me
             </Button>
           </div>
