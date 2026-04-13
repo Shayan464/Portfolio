@@ -13,6 +13,15 @@ const projects = [
     github: 'https://github.com/Shayan464/QuickGpt',
   },
   {
+    title: 'Chatify',
+    description:
+      '💬 Real-Time Chat ApplicationA real-time chat application built using React, Node.js, Express, MongoDB, and Socket.io that allows users to send and receive messages instantly without refreshing the page, The application uses WebSocket communication with Socket.io to provide seamless real-time messaging between connected users.',
+    image: '/chatify.png',
+    tags: ['React', 'NodeJs'],
+    link: 'https://chat-application-00si.onrender.com',
+    github: 'https://github.com/Shayan464/Chat-Application',
+  },
+  {
     title: 'Food App',
     description:
       'A MERN stack food ordering application where users can explore menus, add items to their cart, and place orders seamlessly. Built with React for the frontend and Node.js/Express with MongoDB for the backend, ensuring a fast and responsive user experience.',
@@ -20,16 +29,6 @@ const projects = [
     tags: ['React', 'NodeJs'],
     link: 'https://mern-food-app-o9z0.onrender.com/',
     github: 'https://github.com/Shayan464/Mern-food-app',
-  },
-  {
-    title: 'Real Time chat using socket-io',
-    description:
-      '💬 Real-Time Chat ApplicationA real-time chat application built using React, Node.js, Express, MongoDB, and Socket.io that allows users to send and receive messages instantly without refreshing the page, The application uses WebSocket communication with Socket.io to provide seamless real-time messaging between connected users.',
-    image: '/chatty.png',
-    tags: ['React', 'NodeJs'],
-    link: 'https://realtime-chat-using-socketio-frontend.onrender.com',
-    github:
-      'https://github.com/Shayan464/Realtime-chat-using-SocketIo/tree/main',
   },
   {
     title: 'React-ecommerce',
