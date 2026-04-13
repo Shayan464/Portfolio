@@ -2,7 +2,7 @@
 
 This is my personal **developer portfolio website** built to showcase my projects, technical skills, and experience as a **MERN Stack Developer**.
 
-## 📸 Live Preview :** https://portfolio-lac-eight-91.vercel.app
+## 📸 Live Preview : https://portfolio-lac-eight-91.vercel.app
 
 ---
 
