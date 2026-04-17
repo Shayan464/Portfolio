@@ -18,7 +18,7 @@ const projects = [
       '💬 Real-Time Chat ApplicationA real-time chat application built using React, Node.js, Express, MongoDB, and Socket.io that allows users to send and receive messages instantly without refreshing the page, The application uses WebSocket communication with Socket.io to provide seamless real-time messaging between connected users.',
     image: '/chatify.png',
     tags: ['React', 'NodeJs'],
-    link: 'https://chat-application-00si.onrender.com',
+    link: 'https://chat-application-al9l.onrender.com',
     github: 'https://github.com/Shayan464/Chat-Application',
   },
   {
