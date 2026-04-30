@@ -18,7 +18,7 @@ const projects = [
       '💬 Real-Time Chat ApplicationA real-time chat application built using React, Node.js, Express, MongoDB, and Socket.io that allows users to send and receive messages instantly without refreshing the page, The application uses WebSocket communication with Socket.io to provide seamless real-time messaging between connected users.',
     image: '/chatify.png',
     tags: ['React', 'NodeJs'],
-    link: 'https://chat-application-al9l.onrender.com',
+    link: 'https://chat-application-yt9b.onrender.com',
     github: 'https://github.com/Shayan464/Chat-Application',
   },
   {
@@ -27,7 +27,7 @@ const projects = [
       'A MERN stack food ordering application where users can explore menus, add items to their cart, and place orders seamlessly. Built with React for the frontend and Node.js/Express with MongoDB for the backend, ensuring a fast and responsive user experience.',
     image: '/image.png',
     tags: ['React', 'NodeJs'],
-    link: 'https://mern-food-app-o9z0.onrender.com/',
+    link: 'https://mern-food-app-5pid.vercel.app',
     github: 'https://github.com/Shayan464/Mern-food-app',
   },
   {
@@ -36,7 +36,7 @@ const projects = [
       'A responsive e-commerce web application built with React that allows users to browse products, filter items, and manage a shopping cart with a seamless user experience.',
     image: '/Reactecommerce.png',
     tags: ['React', 'NodeJs'],
-    link: 'https://react-ecommerce-9vt4.onrender.com',
+    link: 'https://react-ecommerce-azure-zeta.vercel.app',
     github: 'https://github.com/Shayan464/React-ecommerce',
   },
 ];
